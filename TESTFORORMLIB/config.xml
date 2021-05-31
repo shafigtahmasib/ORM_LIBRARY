@@ -1,0 +1,1 @@
+<databaseurl>jdbc:postgresql://localhost/LIBDB?user=postgres&password=pass</databaseurl>
